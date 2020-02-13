@@ -1,9 +1,6 @@
 <?php include("header.php") ;
  
  ?>
-
-
-		<div id="colorlib-main">
 			<section class="ftco-section contact-section">
 	      <div class="container">
 	        <div class="row d-flex mb-5 contact-info">

@@ -1,7 +1,7 @@
 <?php include("header.php") ;
  
  ?>
- <div id="colorlib-main">
+
 			<section class="ftco-section-2">
 				<div class="photograhy">
 					<div class="row no-gutters">
