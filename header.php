@@ -34,12 +34,12 @@
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<li class="colorlib-active"><a href="index.php">Home</a></li>
-					<li><a href="awards.php">Awards</a></li>
 					<li><a href="about.php">About</a></li>
-					<li><a href="eb&m.php">Editorial Board & Membership</a></li>
 					<li><a href="gallery.php">Gallery</a></li>	
+					<li><a href="awards.php">Awards</a></li>
 					<li><a href="publications.php">Publications</a></li>
 					<li><a href="rg.php">Research Guidance</a></li>
+					<li><a href="eb&m.php">Editorial Board & Membership</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</nav>
