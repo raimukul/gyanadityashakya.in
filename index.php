@@ -27,7 +27,7 @@
 			</div>
 
 			
-<div class="jumbotron">
+    <div class="jumbotron">
 	<h3 class=" text-lg-left mt-0 mb-0">
        Biography
         </h3>
@@ -43,6 +43,7 @@
 </p>
 	
 </div>
+
 
 <?php include("footer.php") ;
  

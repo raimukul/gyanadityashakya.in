@@ -44,7 +44,7 @@
 				</ul>
 			</nav>
 
-			<div class="colorlib-footer">
+				<div class="colorlib-footer">
 				<p>
 			  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </p>
 				<ul>
