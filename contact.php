@@ -8,19 +8,55 @@
 	            <h2 class="h4 font-weight-bold">Contact Information</h2>
 	          </div>
 	          <div class="w-100"></div>
-	          <div class="col-md-3">
-	            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
-	          </div>
-	          <div class="col-md-3">
-	            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
-	          </div>
-	          <div class="col-md-3">
-	            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
-	          </div>
-	          <div class="col-md-3">
-	            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+	          <div class="col-md-5">
+	          	<h2 class="h5 font-weight-bold"> Official Address:</h2>
+	            <p> Dr. Gyanaditya Shakya <br>
+Assistant Professor <br>
+School of Buddhist Studies & Civilization,<br>
+Gautam Buddha University, Greater Noida,<br>
+Gautam Buddha Nagar, Uttar Pradesh (India)<br>
+Official Phone: +91-0120-2346226</p>
 	          </div>
 	        </div>
+
+	        <div class="row d-flex mb-5 contact-info">
+	          <div class="w-100"></div>
+	          <div class="col-md-5">
+	          	<h2 class="h5 font-weight-bold"> Residential Address:</h2>
+	            <p>
+	            	C-68, Type-V,
+Gautam Buddha University, Greater Noida,
+Gautam Buddha Nagar-201312, Uttar Pradesh (India)
+Contact No.: +91-9868060572
+	            </p>
+	          </div>
+	        </div>
+
+	        <div class="row d-flex mb-5 contact-info">
+	          <div class="w-100"></div>
+	          <div class="col-md-5">
+	          	<h4 class="h5 font-weight-bold">Email:</h4>
+	            <p>E-mail ID: gyanaditya@gmail.com</p>
+	          </div>
+	        </div>
+
+	        <div class="row d-flex mb-5 contact-info">
+	          <div class="w-100"></div>
+	          <div class="col-md-5">
+	          	<h4 class="h5 font-weight-bold">Website:</h4>
+	            <p>www.gyanadityashakya.in</p>
+	          </div>
+	        </div>
+
+	        <div class="row d-flex mb-5 contact-info">
+	          <div class="w-100"></div>
+	          <div class="col-md-20">
+	          	<h4 class="h5 font-weight-bold">University Webpage</h4>
+	            <p>http://www.gbu.ac.in/FacultyProfiles/GBU_Profile_Gyanaditya%20Shakya.pdf</p>
+	          </div>
+	        </div>
+
+
 	        <div class="row block-9">
 	          <div class="col-md-6 order-md-last pr-md-5">
 	            <form action="#">
@@ -47,7 +83,8 @@
 	          	<div id="map"></div>
 	          </div>
 	        </div>
-	      </div>
+
+	      </div> <!-- container -->
 	    </section>
 
 	    <footer class="ftco-footer ftco-bg-dark ftco-section">
