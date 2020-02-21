@@ -30,17 +30,18 @@
 	<div id="colorlib-page">
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
-			<h3><a href="index.php">Dr. Gyanaditya Shakya</a></h3 >
-			<nav id="colorlib-main-menu" role="navigation">
+			<h5><a href="index">Dr. Gyanaditya Shakya</a></h5 >
+			<nav id="main-nav" role="navigation">
 				<ul>
-					<li class="colorlib-active"><a href="index.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
-					<li><a href="gallery.php">Gallery</a></li>	
-					<li><a href="awards.php">Awards</a></li>
-					<li><a href="publications.php">Publications</a></li>
-					<li><a href="rg.php">Research Guidance</a></li>
-					<li><a href="eb&m.php">Editorial Board & Membership</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="about">About</a></li>
+					<li><a href="gallery">Gallery</a></li>	
+					<!-- <li><a href="Awards">Mukul</a></li> -->
+					<li><a href="awd">Award</a></li>
+					<li><a href="publications">Publications</a></li>
+					<li><a href="rg">Research Guidance</a></li>
+					<li><a href="eb&m">Editorial Board & Membership</a></li>
+					<li><a href="contact">Contact</a></li>
 				</ul>
 			</nav>
 

@@ -1,16 +1,33 @@
 <?php include("header.php") ;
-
  ?>
-		
-	<div class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url(images/bg_4.jpg);" data-stellar-background-ratio="0.5">
-				<div class="overlay"></div>
+ <?php 
+    define("xxyy", TRUE);
+  ?>
+<div class="header text-center">
+	<h2 style="color: #fff;">About</h2>
+</div>
+	<div class="hero-wrap js-fullheight" style="background-image: url(images/bg222.png);" data-stellar-background-ratio="0.5">
+				<!-- <div class="overlay"></div> -->
 				<div class="js-fullheight d-flex justify-content-center align-items-center">
 					<div class="col-md-8 text text-center">
-						<div class="img mb-4" style="background-image: url(images/author.jpg);"></div>
+						<div class="img mb-4" style="background-image: url(images/author2.jpg);"></div>
 						<div class="desc">
-							<!-- <h2 class="subheading">Hello I'm</h2> -->
-							<h1 class="mb-4">Dr. Gyanaditya Shakya</h1>
-							<p class="mb-4">I am A Blogger Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<h1 class="mb-4" style="color: #dee2e6">Dr. Gyanaditya Shakya</h1>
+							<p class="mb-4">
+								Recipient of Presidential Award & Vividh Puraskar ,<br>
+								M.A. - Pali & Prakrit (Gold Medalist), M.Phil. & Ph.D. (Buddhist Studies) ,<br>
+								Assistant Professor ,<br>
+								Department of Applied Buddhist Studies, <br>
+								School of Buddhist Studies & Civilization, <br>
+								Gautam Buddha University, Greater Noida, <br>
+								Gautam Buddha Nagar, Uttar Pradesh (India)
+</p>
+
+							<p><a href="about.php" class="btn-custom">More About Me <span class="ion-ios-arrow-forward"></span></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
 
     <div class="container">
 	<h3 class=" text-lg-left mt-0 mb-0">
@@ -30,15 +47,7 @@
 	
 </div>
 
-							<ul class="ftco-social mt-3">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-						</div>
-					</div>
-				</div>
-			</div>
+				
 			
 
 <?php include("footer.php") ;

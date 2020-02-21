@@ -3,8 +3,7 @@
  <?php 
     define("xxyy", TRUE);
   ?>
-
- <div class="header text-center">
+   <div class="header text-center">
  	<h2 style="color: #fff;">Awards</h2>
  </div>
  <div class="container">
@@ -47,7 +46,5 @@
             <li><b>Bodhiratna Award</b> is awarded by Buddha-Vāni Newsletter, Panchashila Sadan, 22 A, Kharkheni, Naini, Allahabad (Uttar Pradesh) on the auspicious occasion of Bauddha Mahotsava 2011 at Samrat Ashoka Buddha Vihara, Sarnath, Varanasi, Uttar Pradesh (India) on 09th November 2011.</li><br>
         </ol>
  </div>
-		
-
-<?php include("footer.php") ;
+  <?php include("footer.php") ; 
  ?>

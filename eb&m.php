@@ -1,6 +1,8 @@
 <?php include("header.php") ;
- 
  ?>
+ <?php 
+    define("xxyy", TRUE);
+  ?>
 		
 			<div class="hero-wrap js-fullheight" style="background-image: url(images/bg_1.jpg);" data-stellar-background-ratio="0.5">
 				<div class="overlay"></div>
