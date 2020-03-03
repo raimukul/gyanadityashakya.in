@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(index|about|contact|activities|publications|members|error)$ $1.php [NC,L]
