@@ -2,7 +2,8 @@
 <html lang="en">
   <head>
     <title>Dr. Gyanaditya Shakya</title>
-    <link rel = "icon" href = "images/buddha.png" 
+    <link rel = "icon" href =  
+"images/buddha.png" 
         type = "image/x-icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -39,7 +40,7 @@
 					<li><a href="about">About</a></li>
 					<li><a href="gallery">Gallery</a></li>	
 					<!-- <li><a href="Awards">Mukul</a></li> -->
-					<li><a href="awd">Award</a></li>
+					<li><a href="awd">Awards</a></li>
 					<li><a href="publications">Publications</a></li>
 					<li><a href="rg">Research Guidance</a></li>
 					<li><a href="eb&m">Editorial Board & Membership</a></li>
