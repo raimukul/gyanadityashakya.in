@@ -18,21 +18,21 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="banner/Artboard 1banner1sir.png" alt="Los Angeles" width="100%" height="50px">
+      <img src="banner/Artboard 1banner1sir.jpg" alt="Los Angeles" width="100%" height="50px">
       <div class="carousel-caption">
-      	<p>Presidential Award is conferred by Hon’ble Vice President of India</p>
+      	<p style="background-color: #0a0a0a9c">Presidential Award is conferred by Hon’ble Vice President of India</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="banner/Artboard 1banner2sir.png" alt="Chicago" width="100%" height="50px">
+      <img src="banner/Artboard 1banner2sir.jpg" alt="Chicago" width="100%" height="50px">
       <div class="carousel-caption">
-      	<p>Vividh Puraskar is conferred by Hon’ble Chief Minister of U.P</p>
+      	<p  style="background-color: #0a0a0a9c">Vividh Puraskar is conferred by Hon’ble Chief Minister of U.P</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="banner/Artboard 1banner3sir.png" alt="New York" width="100%" height="50px">
+      <img src="banner/Artboard 1banner3sir.jpg" alt="New York" width="100%" height="50px">
       <div class="carousel-caption">
-      	<p>Honoured with Prashamsa Patra (Certificate of Appreciation)</p>
+      	<p style="background-color: #0a0a0a9c">Honoured with Prashamsa Patra (Certificate of Appreciation)</p>
       </div>
     </div>
   </div>

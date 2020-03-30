@@ -77,9 +77,9 @@
  			 </div>
  		</li>
  		<li><p class="text-left">Nāmacāradīpaka (Ed.) Gyanaditya Shakya, Varanasi: Pāli Society of India, pp.1-72. (ISBN No.: 978-81-939277-8-6)</p>
- 			<div class="mx-auto" style="width: 360px;">
+ 			<!-- <div class="mx-auto" style="width: 360px;">
  			     <img src="cover/book13.jpg" class="mx-auto d-block img-fluid"> 	
- 			 </div>
+ 			 </div> -->
  		</li>
  	</ol>
  	<h4 class=" text-lg-left mt-3 mb-0">Publication of Chapters in Books:</h4>
